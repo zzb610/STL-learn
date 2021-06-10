@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../SGI_STL/vector"
+#include "../sgi_stl/vector"
 
 using namespace sgistd;
 int main(int argc, char const *argv[])
