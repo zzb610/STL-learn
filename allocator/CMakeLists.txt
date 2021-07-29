@@ -4,4 +4,4 @@ project(allocator)
 
 set(CXX_STANDARD 11)
 
-add_executable(allocator my_alloc.cpp)
+add_executable(allocator round_up.cpp)
